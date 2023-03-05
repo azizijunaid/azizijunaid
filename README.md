@@ -21,6 +21,10 @@ You can click the Preview link to take a look at your changes.
 #### WHERE DID I SPENT LAST 7 DAYS?
 
  [![Junaid's github stats](https://raw.githubusercontent.com/azizijunaid/azizijunaid/main/images/stat.svg)][website]
+ <img
+  src="https://github.com/<username>/azizijunaid/blob/main/images/stat.svg"
+  alt="Alternative Text"
+/>
  <br/>
 ### Connect with me:
 
