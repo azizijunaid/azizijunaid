@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 #### WHERE DID I SPENT LAST 7 DAYS?
 
- [![Mansoor's github stats](https://raw.githubusercontent.com/azizijunaid/azizijunaid/main/images/stat.svg)][website]
+ [![Junaid's github stats](https://raw.githubusercontent.com/azizijunaid/azizijunaid/main/images/stat.svg)][website]
  <br/>
 ### Connect with me:
 
@@ -38,10 +38,10 @@ You can click the Preview link to take a look at your changes.
 <br />
 <br/>
 
-<!-- <details>
+<details>
   <summary>:zap: GitHub Stats</summary>
- [![Junaid's github stats]()
-</details> -->
+ [![Junaid's github stats](https://raw.githubusercontent.com/azizijunaid/azizijunaid/main/images/stat.svg)][website]
+</details>
 
 
 
