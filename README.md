@@ -39,8 +39,8 @@ You can click the Preview link to take a look at your changes.
 <br/>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
- [![Junaid's github stats](https://raw.githubusercontent.com/azizijunaid/azizijunaid/main/images/stat.svg)][website]
+  <summary>:zap: Top Languages:</summary>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azizijunaid&hide_progress=true)](https://github.com/azizijunaid/github-readme-stats)
 </details>
 
 
