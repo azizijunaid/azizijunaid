@@ -1,8 +1,18 @@
-- 👋 Hi, I’m Muhammad Junaid Aziz
-- 👀 I’m interested in learning new Technologies
-- 🌱 I’m currently learning Vue.js
+### Hi there, I'm Muhammad Junaid Aziz <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
+- 👀 I’m interested in learning new Technologies.
+- 🌱 I’m currently getting my hands dirty in Web 3.0 and Blockchain.
 - 💞️ I’m looking to collaborate on different opensource repositories.
-- 📫 How to reach me: 03472498243
+- <img width="15" src="https://cdn-icons-png.flaticon.com/512/220/220236.png" /> &nbsp;How to reach me: **03472498243**
+
+
+
+Welcome to my GitHub profile page! My name is Junaid Aziz and I'm a enthusiast software engineer with a passion for building and designing innovative solutions.
+
+I specialize in web development and have experience working with various front-end and back-end technologies such as React, Node.js and PostgreSQL / MySql and MongoDB. I am also proficient in Git and have experience collaborating with teams using Agile methodologies.
+
+In my free time, I enjoy contributing to open-source projects and experimenting with new technologies. I believe that software engineering is an ever-evolving field, and I am always eager to learn and stay up-to-date with the latest trends and best practices.
+
+If you have any questions or would like to collaborate on a project, feel free to reach out to me! You can find my contact information on my GitHub profile page.
 
 
 ### TECHNOLOGIES I USE OR CODE WITH:
