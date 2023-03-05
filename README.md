@@ -18,4 +18,11 @@ You can click the Preview link to take a look at your changes.
 ![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizijunaid&show_icons=true&theme=radical)
 
 
+<!-- [website]: https://mansoorrajput.com -->
+[facebook]: https://www.facebook.com/azizijunaid1
+[linkedin]: https://www.linkedin.com/in/azizijunaid/
+[stackoverflow]: https://stackoverflow.com/users/4790909/muhammad-junaid-aziz
+[fiverr]: https://www.fiverr.com/azizijunaid1
+
+
 
