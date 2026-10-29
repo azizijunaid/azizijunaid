@@ -25,7 +25,7 @@ azizijunaid/azizijunaid is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizijunaid&show_icons=true&theme=radical)
+## ![Junaid's GitHub stats](https://github-readme-stats.vercel.app/api?username=azizijunaid&show_icons=true&theme=radical)
 
 
 #### WHERE DID I SPENT LAST 7 DAYS?
